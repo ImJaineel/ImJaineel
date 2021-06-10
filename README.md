@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [student.jpincredibles.cf](student.jpincredibles.cf)
 
-- 💬 Ask me about **What am i doing**
+- 💬 Ask me about **🤷‍♂️ What am i doing ? 🤷‍♂️**
 
 - 📫 How to reach me **jaineel2001@gmail.com**
 
