@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jaineel Petiwale</h1>
+<!--<img align="center" src="" alt="jpetiwale DP" />-->
 <h3 align="center">A passionate tech loving guy from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jpetiwale&label=Profile%20views&color=0e75b6&style=flat" alt="jpetiwale" /> </p>
+<p align=""> <img src="https://komarev.com/ghpvc/?username=jpetiwale&label=Profile%20views&color=0e75b6&style=flat" alt="jpetiwale" /> </p>
 
-<p align="left"> <a href="https://twitter.com/jpetiwale" target="blank"><img src="https://img.shields.io/twitter/follow/jpetiwale?logo=twitter&style=for-the-badge" alt="jpetiwale" /></a> </p>
+<p align=""> <a href="https://twitter.com/jpetiwale" target="blank"><img src="https://img.shields.io/twitter/follow/jpetiwale?logo=twitter&style=for-the-badge" alt="jpetiwale" /></a> </p>
 
 - 🌱 I’m currently learning **B.tech in CS**
 
@@ -20,10 +21,10 @@
 <h3 align="left">Connect with me:</h3>
 <span style="color: white">
 <p align="left">
-<a href="https://twitter.com/jpetiwale" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jpetiwale" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jpetiwale" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jpetiwale" height="30" width="40" /></a>
-<a href="https://fb.com/jpetiwale" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="jpetiwale" height="30" width="40" /></a>
-<a href="https://instagram.com/jaineel_jp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jaineel_jp" height="30" width="40" /></a>
+<a href="https://twitter.com/jpetiwale" target="blank"><img align="center" src="https://github.com/JPetiwale/JPetiwale/blob/main/Logo/twitter.svg" alt="jpetiwale" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jpetiwale" target="blank"><img align="center" src="https://github.com/JPetiwale/JPetiwale/blob/main/Logo/Linkedin.svg" alt="jpetiwale" height="30" width="40" /></a>
+<a href="https://fb.com/jpetiwale" target="blank"><img align="center" src="https://github.com/JPetiwale/JPetiwale/blob/main/Logo/Facebook.svg" alt="jpetiwale" height="30" width="40" /></a>
+<a href="https://instagram.com/jaineel_jp" target="blank"><img align="center" src="https://github.com/JPetiwale/JPetiwale/blob/main/Logo/Instagram.svg" alt="jaineel_jp" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
