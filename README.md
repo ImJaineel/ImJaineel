@@ -19,7 +19,6 @@
 - ⚡ Fun fact **I am lazy 😌**
 
 <h3 align="left">Connect with me:</h3>
-<span style="color: white">
 <p align="left">
 <a href="https://twitter.com/jpetiwale" target="blank"><img align="center" src="https://github.com/JPetiwale/JPetiwale/blob/main/Logo/twitter.svg" alt="jpetiwale" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jpetiwale" target="blank"><img align="center" src="https://github.com/JPetiwale/JPetiwale/blob/main/Logo/Linkedin.svg" alt="jpetiwale" height="30" width="40" /></a>
