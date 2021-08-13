@@ -4,7 +4,7 @@
 
 <p align=""> <img src="https://komarev.com/ghpvc/?username=jpetiwale&label=Profile%20views&color=0e75b6&style=flat" alt="jpetiwale" /> </p>
 
-<p align=""> <a href="https://twitter.com/jpetiwale" target="blank"><img src="https://img.shields.io/twitter/follow/jpetiwale?logo=twitter&style=for-the-badge" alt="jpetiwale" /></a> </p>
+<p align=""> <a href="https://twitter.com/im_Jaineel" target="blank"><img src="https://img.shields.io/twitter/follow/jpetiwale?logo=twitter&style=for-the-badge" alt="im_Jaineel" /></a> </p>
 
 - 🌱 I’m currently learning **B.tech in CS**
 
