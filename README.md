@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **jaineel2001@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1kAe-Rt1gXpyaPl9gztiGY1xQ7YL7hYOB/view?usp=sharing](https://drive.google.com/file/d/1kAe-Rt1gXpyaPl9gztiGY1xQ7YL7hYOB/view?usp=sharing)
+- 📄 Know about my experiences by checking this out -> [My Resume](https://drive.google.com/file/d/1kAe-Rt1gXpyaPl9gztiGY1xQ7YL7hYOB/view?usp=sharing)
 <!-- - 📄 Know about my experiences [www.jpincredibles.cf/my_resume.html](www.jpincredibles.cf/my_resume.html) -->
 
 - ⚡ Fun fact **I am lazy 😌**
