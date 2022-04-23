@@ -6,7 +6,7 @@
 
 <p align=""> <a href="https://twitter.com/im_Jaineel" target="blank"><img src="https://img.shields.io/twitter/follow/im_Jaineel?logo=twitter&style=for-the-badge" alt="im_Jaineel" /></a> </p>
 
-- 🌱 I’m currently learning **B.tech in CS**
+- 🌱 I’m currently learning **B.tech in CE with specialization in Information Systems**
 
 <!-- - 👨‍💻 All of my projects are available at [student.jpincredibles.cf](student.jpincredibles.cf) -->
 
