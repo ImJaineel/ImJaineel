@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jaineel Petiwale</h1>
+<! --<h1 align="center">Hi 👋, I'm Jaineel Petiwale</h1>
 <!--<img align="center" src="" alt="ImJaineel DP" />-->
 <h3 align="center">A passionate tech loving guy from India</h3>
 
@@ -49,3 +49,4 @@
 <br/>
 <!--<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ImJaineel&" alt="ImJaineel git streak" /></p>-->
 <br/>
+-->
