@@ -60,8 +60,9 @@
 
 <h2> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
 
-![Metrics](https://metrics.lecoq.io/ImJaineel?template=classic&config.timezone=America%2FToronto)
-
+<!-- ![Metrics](https://metrics.lecoq.io/ImJaineel?template=terminal&config.timezone=America%2FToronto) -->
+![Metrics](https://metrics.lecoq.io/ImJaineel?template=terminal&config.timezone=Asia%2FCalcutta)
+  
 <h2> Some Programming Humor for you <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
