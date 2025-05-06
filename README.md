@@ -1,7 +1,7 @@
 # Hi, I’m Jaineel Petiwale! 👋
 
 ### 🖥️ About Me
-A **results-driven ServiceNow Developer** with 2 years of hands-on experience in designing and implementing solutions within the ServiceNow platform. I hold a **B.Tech in Computer Engineering (Information Systems)** from Ajeenkya DY Patil University. Currently, I’m an **Associate Developer at Flex Ltd.**, where I contribute to the Service-Now Admin Team, driving innovation through platform automation and integration.
+A **results-driven ServiceNow Developer** with 2 years of hands-on experience in designing and implementing solutions within the ServiceNow platform. I hold a **B.Tech in Computer Engineering (Information Systems)** from Ajeenkya DY Patil University. Currently, I’m an **Developer at Flex Ltd.**, where I contribute to the Service-Now Admin Team, driving innovation through platform automation and integration.
 
 ### 💻 Skills
 - **Platforms & Tools:** ServiceNow, ITSM, Azure, AWS, Docker
@@ -28,8 +28,9 @@ A **results-driven ServiceNow Developer** with 2 years of hands-on experience in
 ---
 
 ### 📚 Certifications
-- **Microsoft Certified: Azure AI Fundamentals** (Jan 2024)
-- **Active Directory Domain Services** (Jan 2024)
+- **Certified System Administrator** from **ServiceNow** (Mar 2025)
+- - **Active Directory Domain Services** from **Microsoft** (Jan 2024)
+- **Microsoft Certified: Azure AI Fundamentals** from **Microsoft** (Jan 2024)
 
 ### 📫 Contact Me
 - **Email:** Jaineel2001@gmail.com  
