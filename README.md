@@ -28,6 +28,7 @@ A **results-driven ServiceNow Developer** with 2 years of hands-on experience in
 ---
 
 ### 📚 Certifications
+- **Certified Applicstion Developer** from **ServiceNow** (Feb 2026)
 - **Certified System Administrator** from **ServiceNow** (Mar 2025)
 - **Active Directory Domain Services** from **Microsoft** (Jan 2024)
 - **Microsoft Certified: Azure AI Fundamentals** from **Microsoft** (Jan 2024)
