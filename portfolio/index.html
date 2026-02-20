@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jaineel | ServiceNow Developer</title>
+    <style>
+        :root {
+            --bg-color: #f8fafc;
+            --text-color: #0f172a;
+            --primary-color: #2563eb;
+            --secondary-color: #64748b;
+            --card-bg: #ffffff;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        }
+
+        body {
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            line-height: 1.6;
+        }
+
+        header {
+            background-color: var(--card-bg);
+            padding: 1.5rem 5%;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+
+        nav {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .logo {
+            font-size: 1.5rem;
+            font-weight: bold;
+            color: var(--primary-color);
+            text-decoration: none;
+        }
+
+        .nav-links a {
+            margin-left: 2rem;
+            text-decoration: none;
+            color: var(--text-color);
+            font-weight: 500;
+            transition: color 0.3s;
+        }
+
+        .nav-links a:hover {
+            color: var(--primary-color);
+        }
+
+        section {
+            padding: 5rem 5%;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .hero {
+            text-align: center;
+            padding: 8rem 5% 5rem;
+        }
+
+        .hero h1 {
+            font-size: 3.5rem;
+            margin-bottom: 1rem;
+        }
+
+        .hero h2 {
+            font-size: 1.5rem;
+            color: var(--secondary-color);
+            margin-bottom: 2rem;
+            font-weight: 400;
+        }
+
+        .btn {
+            display: inline-block;
+            background-color: var(--primary-color);
+            color: white;
+            padding: 0.8rem 2rem;
+            border-radius: 5px;
+            text-decoration: none;
+            font-weight: bold;
+            transition: background-color 0.3s;
+        }
+
+        .btn:hover {
+            background-color: #1d4ed8;
+        }
+
+        .section-title {
+            font-size: 2rem;
+            margin-bottom: 2rem;
+            text-align: center;
+            color: var(--primary-color);
+        }
+
+        .about-text {
+            font-size: 1.1rem;
+            text-align: center;
+            max-width: 800px;
+            margin: 0 auto;
+            color: var(--secondary-color);
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 2rem;
+            margin-top: 2rem;
+        }
+
+        .card {
+            background-color: var(--card-bg);
+            padding: 2rem;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+            transition: transform 0.3s;
+        }
+
+        .card:hover {
+            transform: translateY(-5px);
+        }
+
+        .card h3 {
+            margin-bottom: 1rem;
+            color: var(--text-color);
+        }
+
+        .tag {
+            display: inline-block;
+            background-color: #e2e8f0;
+            color: var(--text-color);
+            padding: 0.3rem 0.8rem;
+            border-radius: 20px;
+            font-size: 0.9rem;
+            margin: 0.2rem;
+        }
+
+        footer {
+            background-color: var(--card-bg);
+            text-align: center;
+            padding: 2rem;
+            margin-top: 3rem;
+            border-top: 1px solid #e2e8f0;
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            .nav-links {
+                display: none; /* Can add a hamburger menu later */
+            }
+            .hero h1 {
+                font-size: 2.5rem;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <nav>
+            <a href="#" class="logo">Jaineel.</a>
+            <div class="nav-links">
+                <a href="#about">About</a>
+                <a href="#skills">Skills</a>
+                <a href="#certifications">Certifications</a>
+                <a href="#projects">Projects</a>
+            </div>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <h1>Hi, I'm Jaineel</h1>
+        <h2>ServiceNow Developer | Cloud & System Administration Enthusiast</h2>
+        <p style="margin-bottom: 2rem; color: var(--secondary-color);">Based in Pune, Maharashtra</p>
+        <a href="./jaineel_petiwale_resume.pdf" class="btn">View My Resume</a>
+    </section>
+
+    <section id="about">
+        <h2 class="section-title">About Me</h2>
+        <p class="about-text">
+            I am a ServiceNow Developer currently working at Flex Ltd., where I transitioned from an intern to a full-time role following my B.Tech graduation in May 2023. I specialize in building robust workflows and integrations within the ServiceNow ecosystem, while continuously exploring server administration, Linux environments, and cloud infrastructure.
+        </p>
+    </section>
+
+    <section id="skills">
+        <h2 class="section-title">Technical Expertise</h2>
+        <div class="grid">
+            <div class="card">
+                <h3>ServiceNow</h3>
+                <p>IT Service Management (ITSM), Custom Applications, Platform Integrations, Workflow Automation.</p>
+            </div>
+            <div class="card">
+                <h3>Infrastructure & Cloud</h3>
+                <p>Linux & Unix Environments, Windows Server Administration, Amazon Web Services (AWS).</p>
+            </div>
+            <div class="card">
+                <h3>Containerization & Hardware</h3>
+                <p>Docker, Self-Hosting, Proxy Servers, Raspberry Pi Home Labs.</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="certifications">
+        <h2 class="section-title">Certifications</h2>
+        <div class="grid">
+            <div class="card">
+                <h3>Active Credentials</h3>
+                <br>
+                <ul>
+                    <li><strong>CAD:</strong> Certified Application Developer</li>
+                    <li><strong>CSA:</strong> Certified System Administrator</li>
+                </ul>
+            </div>
+            <div class="card">
+                <h3>In Progress (Target: May 2026)</h3>
+                <br>
+                <ul>
+                    <li><strong>CIS:</strong> Data Foundations</li>
+                    <li><strong>CIS:</strong> IT Service Management (ITSM)</li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <section id="projects">
+        <h2 class="section-title">Featured Projects</h2>
+        <div class="grid">
+            <div class="card">
+                <h3>Enterprise ServiceNow Integrations</h3>
+                <p style="margin-bottom: 1rem;">Developed and maintained key platform workflows and custom applications at Flex Ltd., improving operational efficiency.</p>
+                <span class="tag">ServiceNow</span>
+                <span class="tag">ITSM</span>
+                <span class="tag">JavaScript</span>
+            </div>
+            <div class="card">
+                <h3>Self-Hosted Home Lab</h3>
+                <p style="margin-bottom: 1rem;">Configured a personal server ecosystem on Raspberry Pi utilizing Docker containers for network management and proxy services.</p>
+                <span class="tag">Raspberry Pi</span>
+                <span class="tag">Docker</span>
+                <span class="tag">Linux</span>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2026 Jaineel. Built with HTML & CSS.</p>
+        <div style="margin-top: 1rem;">
+            <a href="mailto:jaineel2001@gmail.com" style="color: var(--primary-color); text-decoration: none; margin: 0 10px;">Email Me</a>
+            <a href="https://in.linkedin.com/in/jaineelpetiwale" style="color: var(--primary-color); text-decoration: none; margin: 0 10px;">LinkedIn</a>
+            <a href="https://github.com/ImJaineel" style="color: var(--primary-color); text-decoration: none; margin: 0 10px;">GitHub</a>
+        </div>
+    </footer>
+
+</body>
+</html>
