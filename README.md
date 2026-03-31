@@ -1,7 +1,7 @@
 # Hi, I’m Jaineel Petiwale! 👋
 
 ### 🖥️ About Me
-A **results-driven ServiceNow Developer** with 2 years of hands-on experience in designing and implementing solutions within the ServiceNow platform. I hold a **B.Tech in Computer Engineering (Information Systems)** from Ajeenkya DY Patil University. Currently, I’m an **Developer at Flex Ltd.**, where I contribute to the Service-Now Admin Team, driving innovation through platform automation and integration.
+A **results-driven ServiceNow Developer** with 3 years of hands-on experience architecting and delivering enterprise-grade solutions on the **ServiceNow platform. Dual-certified CSA & CAD, currently at Flex Ltd.**, with deep expertise in ITSM, Orchestration, MID Server, and Identity Management. Proven track record in designing reusable frameworks for AD integration, SSO, Auto-Assignment, and On-Demand Admin Access. Experienced in end-to-end eBonding, LDAP/LDAPS management, and driving global platform automation initiatives at scale.
 
 ### 💻 Skills
 - **Platforms & Tools:** ServiceNow, ITSM, Azure, AWS, Docker
